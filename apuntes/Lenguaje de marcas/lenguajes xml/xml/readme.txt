@@ -1,0 +1,1 @@
+teoría sacada de https://lm-xml-apuntes.readthedocs.io/apuntes/10_introduccion_xml.html
